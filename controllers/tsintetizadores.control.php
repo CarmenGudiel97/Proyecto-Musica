@@ -20,7 +20,7 @@ function run(){
 
 
 
-	renderizar("gacustica.view.tpl", $viewData);
+	renderizar("tsintetizadores.view.tpl", $viewData);
 }
 
 run();

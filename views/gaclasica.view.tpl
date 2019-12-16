@@ -1,4 +1,4 @@
-<h1 class="text-warning">Guitarras Acústicas</h1>
+<h1 class="text-warning">Guitarras Clásicas</h1>
 <div class="row">
   {{foreach categorias}}
   <div style="border:1px solid #222" class="col-md-4">

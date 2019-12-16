@@ -94,8 +94,8 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                       <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=4">Eléctrico</a>
-                      <a class="dropdown-item" href="#">Acústico</a>
-                      <a class="dropdown-item" href="#">Amplificadores</a>
+                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=5">Acústico</a>
+                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=6">Amplificadores</a>
                     </div>
                   </li>
                   <li class="nav-item dropdown">
@@ -103,9 +103,9 @@
                       Teclado
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                      <a class="dropdown-item" href="#">Teclados Digitales</a>
-                      <a class="dropdown-item" href="#">Piano Digitales</a>
-                      <a class="dropdown-item" href="#">Sintetizadores</a>
+                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=7">Teclados Digitales</a>
+                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=8">Piano Digitales</a>
+                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=9">Sintetizadores</a>
                     </div>
                   </li>
                   <li class="nav-item dropdown">
@@ -113,9 +113,9 @@
                       Bateria
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                      <a class="dropdown-item" href="#">Acústica</a>
-                      <a class="dropdown-item" href="#">Electrónica</a>
-                      <a class="dropdown-item" href="#">Platillos</a>
+                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=10">Acústica</a>
+                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=11">Electrónica</a>
+                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=12">Platillos</a>
                     </div>
                   </li>
                   <li class="nav-item dropdown">
@@ -123,9 +123,9 @@
                       Micrófono
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                      <a class="dropdown-item" href="#">Alámbrico para vocalista</a>
-                      <a class="dropdown-item" href="#">Alámbrico Instrumento</a>
-                      <a class="dropdown-item" href="#">Inalámbrico para vocalista</a>
+                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=13">Alámbrico para vocalista</a>
+                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=14">Alámbrico Instrumento</a>
+                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=15">Inalámbrico para vocalista</a>
                     </div>
                   </li>
              

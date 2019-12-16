@@ -20,7 +20,7 @@ function run(){
 
 
 
-	renderizar("gacustica.view.tpl", $viewData);
+	renderizar("bateplatillos.view.tpl", $viewData);
 }
 
 run();
