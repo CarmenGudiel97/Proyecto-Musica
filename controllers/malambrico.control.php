@@ -20,7 +20,7 @@ function run(){
 
 
 
-	renderizar("malambrico.view.tpl", $viewData);
+	renderizar("malambrico", $viewData);
 }
 
 run();

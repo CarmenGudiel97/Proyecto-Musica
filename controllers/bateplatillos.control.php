@@ -20,7 +20,7 @@ function run(){
 
 
 
-	renderizar("bateplatillos.view.tpl", $viewData);
+	renderizar("bateplatillos", $viewData);
 }
 
 run();

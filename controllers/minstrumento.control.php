@@ -20,7 +20,7 @@ function run(){
 
 
 
-	renderizar("minstrumento.view.tpl", $viewData);
+	renderizar("minstrumento", $viewData);
 }
 
 run();

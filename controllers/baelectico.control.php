@@ -20,7 +20,7 @@ function run(){
 
 
 
-	renderizar("baelectico.view.tpl", $viewData);
+	renderizar("baelectico", $viewData);
 }
 
 run();

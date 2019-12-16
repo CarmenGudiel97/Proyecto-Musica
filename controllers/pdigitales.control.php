@@ -20,7 +20,7 @@ function run(){
 
 
 
-	renderizar("pdigitales.view.tpl", $viewData);
+	renderizar("pdigitales", $viewData);
 }
 
 run();

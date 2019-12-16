@@ -20,7 +20,7 @@ function run(){
 
 
 
-	renderizar("bacustico.view.tpl", $viewData);
+	renderizar("bacustico", $viewData);
 }
 
 run();

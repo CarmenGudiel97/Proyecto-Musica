@@ -20,7 +20,7 @@ function run(){
 
 
 
-	renderizar("minalambrico.view.tpl", $viewData);
+	renderizar("minalambrico", $viewData);
 }
 
 run();

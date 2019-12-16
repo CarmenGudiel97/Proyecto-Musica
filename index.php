@@ -43,6 +43,62 @@ case "equipos":
     //llamar al controlador
     include_once "controllers/equipos.control.php";
     die();
+case "gacustica":
+  //llamar al controlador
+  include_once "controllers/gacustica.control.php";
+  die();
+case "gaclasica":
+  //llamar al controlador
+  include_once "controllers/gaclasica.control.php";
+  die();
+case "baelectico":
+  //llamar al controlador
+  include_once "controllers/baelectico.control.php";
+  die();
+case "bacustico":
+  //llamar al controlador
+  include_once "controllers/bacustico.control.php";
+  die();
+case "bamplificadores":
+  //llamar al controlador
+  include_once "controllers/bamplificadores.control.php";
+  die();
+case "batacustica":
+  //llamar al controlador
+  include_once "controllers/batacustica.control.php";
+  die();
+case "batelectronica":
+  //llamar al controlador
+  include_once "controllers/batelectronica.control.php";
+  die();
+case "bateplatillos":
+  //llamar al controlador
+  include_once "controllers/bateplatillos.control.php";
+  die();
+case "malambrico":
+  //llamar al controlador
+  include_once "controllers/malambrico.control.php";
+  die();
+case "minstrumento":
+  //llamar al controlador
+  include_once "controllers/minstrumento.control.php";
+  die();
+case "minalambrico":
+  //llamar al controlador
+  include_once "controllers/minalambrico.control.php";
+  die();
+case "tdigitales":
+  //llamar al controlador
+  include_once "controllers/tdigitales.control.php";
+  die();
+case "pdigitales":
+  //llamar al controlador
+  include_once "controllers/pdigitales.control.php";
+  die();
+case "tsintetizadores":
+  //llamar al controlador
+  include_once "controllers/tsintetizadores.control.php";
+  die();
 case "login":
     include_once "controllers/security/login.control.php";
     die();

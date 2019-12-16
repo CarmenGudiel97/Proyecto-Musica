@@ -83,8 +83,8 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                       <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=1">Eléctrica</a>
-                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=2">Acústica</a>
-                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=3">Clásica</a>
+                      <a class="dropdown-item" href="index.php?page=gacustica&id_sub_categ_equipo=2">Acústica</a>
+                      <a class="dropdown-item" href="index.php?page=gaclasica&id_sub_categ_equipo=3">Clásica</a>
                     </div>
                   </li>
          
@@ -93,9 +93,9 @@
                       Bajo
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=4">Eléctrico</a>
-                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=5">Acústico</a>
-                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=6">Amplificadores</a>
+                      <a class="dropdown-item" href="index.php?page=baelectico&id_sub_categ_equipo=4">Eléctrico</a>
+                      <a class="dropdown-item" href="index.php?page=bacustico&id_sub_categ_equipo=5">Acústico</a>
+                      <a class="dropdown-item" href="index.php?page=bamplificadores&id_sub_categ_equipo=6">Amplificadores</a>
                     </div>
                   </li>
                   <li class="nav-item dropdown">
@@ -103,9 +103,9 @@
                       Teclado
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=7">Teclados Digitales</a>
-                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=8">Piano Digitales</a>
-                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=9">Sintetizadores</a>
+                      <a class="dropdown-item" href="index.php?page=tdigitales&id_sub_categ_equipo=7">Teclados Digitales</a>
+                      <a class="dropdown-item" href="index.php?page=pdigitales&id_sub_categ_equipo=8">Piano Digitales</a>
+                      <a class="dropdown-item" href="index.php?page=tsintetizadores&id_sub_categ_equipo=9">Sintetizadores</a>
                     </div>
                   </li>
                   <li class="nav-item dropdown">
@@ -113,9 +113,9 @@
                       Bateria
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=10">Acústica</a>
-                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=11">Electrónica</a>
-                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=12">Platillos</a>
+                      <a class="dropdown-item" href="index.php?page=batacustica&id_sub_categ_equipo=10">Acústica</a>
+                      <a class="dropdown-item" href="index.php?page=batelectronica&id_sub_categ_equipo=11">Electrónica</a>
+                      <a class="dropdown-item" href="index.php?page=bateplatillos&id_sub_categ_equipo=12">Platillos</a>
                     </div>
                   </li>
                   <li class="nav-item dropdown">
@@ -123,9 +123,9 @@
                       Micrófono
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=13">Alámbrico para vocalista</a>
-                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=14">Alámbrico Instrumento</a>
-                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=15">Inalámbrico para vocalista</a>
+                      <a class="dropdown-item" href="index.php?page=malambrico&id_sub_categ_equipo=13">Alámbrico para vocalista</a>
+                      <a class="dropdown-item" href="index.php?page=minstrumento&id_sub_categ_equipo=14">Alámbrico Instrumento</a>
+                      <a class="dropdown-item" href="index.php?page=minalambrico&id_sub_categ_equipo=15">Inalámbrico para vocalista</a>
                     </div>
                   </li>
              

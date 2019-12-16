@@ -20,7 +20,7 @@ function run(){
 
 
 
-	renderizar("tsintetizadores.view.tpl", $viewData);
+	renderizar("tsintetizadores", $viewData);
 }
 
 run();

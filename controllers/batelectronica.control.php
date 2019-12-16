@@ -20,7 +20,7 @@ function run(){
 
 
 
-	renderizar("batelectronica.view.tpl", $viewData);
+	renderizar("batelectronica", $viewData);
 }
 
 run();
