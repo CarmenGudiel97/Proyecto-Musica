@@ -83,8 +83,8 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                       <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=1">Eléctrica</a>
-                      <a class="dropdown-item" href="#">Acústica</a>
-                      <a class="dropdown-item" href="#">Clásica</a>
+                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=2">Acústica</a>
+                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=3">Clásica</a>
                     </div>
                   </li>
          
@@ -93,7 +93,7 @@
                       Bajo
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                      <a class="dropdown-item" href="#">Eléctrico</a>
+                      <a class="dropdown-item" href="index.php?page=equipos&id_sub_categ_equipo=4">Eléctrico</a>
                       <a class="dropdown-item" href="#">Acústico</a>
                       <a class="dropdown-item" href="#">Amplificadores</a>
                     </div>
